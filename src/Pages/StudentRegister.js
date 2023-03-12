@@ -14,8 +14,9 @@ export default function StudentRegister() {
   const [password, setpassword] = useState("");
   const [phonenum, setphonenum] = useState("");
   const navigate = useNavigate();
-  function handleRegister() {
-    const response = axios.post(
+
+  async function handleRegister() {
+    const response = await axios.post(
       "https://backend-spritle-task.vercel.app/api/register/student/",
       {
         username: username,
