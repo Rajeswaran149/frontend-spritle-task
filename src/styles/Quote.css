@@ -1,0 +1,12 @@
+.QuoteCon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    flex-direction: column;
+}
+.Quotetxt{
+    font-size: 35px;
+    width: 40vw;
+    font-weight:800;
+}

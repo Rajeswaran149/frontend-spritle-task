@@ -1,0 +1,21 @@
+.Quesiondote{
+    font-size: 30px;
+}
+.Quesiondotedes{
+    color: #8D8E8F;
+    font-size: 13px;
+}
+.createtxt{
+    color:#8D8E8F ;
+}
+.questioninput{
+    width: 400px;
+    height: 100px;
+    resize: none;
+    border-radius: 6px;
+}
+.studentselect{
+    width: 400px;
+    height: 34px;
+    border-radius: 6px;
+}

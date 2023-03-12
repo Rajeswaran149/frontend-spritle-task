@@ -1,0 +1,26 @@
+.initialPageCon{
+
+    display: flex;
+
+    flex-direction: row;
+}
+.view{
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.logins{
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.titlehead{
+    font-size: 40px;
+    font-weight: bold;
+}

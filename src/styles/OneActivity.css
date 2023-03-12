@@ -1,0 +1,32 @@
+.oneActivityCon{
+    
+    width: 400px;
+    height: 200px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.question
+{
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+}
+.realques{
+    width: 60%;
+    color: white;
+    font-weight: 400;
+}
+.result{
+    width: max-content;
+    height: max-content;
+    background-color: greenyellow;
+    border-radius: 3px;
+    margin-left: 20px;
+    font-size: 4px;
+}
+.resulttext{
+    font-size: 14px;
+}
+.sum{
+    margin-left: 20px;
+}

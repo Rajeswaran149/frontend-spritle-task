@@ -1,0 +1,17 @@
+.ActivityCon{
+    height:100vh;
+    background-color:#F4F7FF;
+    width: 100vw;
+    
+    
+}
+.Activityinside{
+    margin-left: 30px;
+}
+.Activities{
+    margin-left: 30px;
+    height: 80vh;
+    overflow: scroll;
+    display: flex;
+    flex-direction: column-reverse;
+}

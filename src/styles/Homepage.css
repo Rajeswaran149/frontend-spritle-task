@@ -1,0 +1,13 @@
+.masterquesti{
+    font-size: 35px;
+    font-weight: 500;
+}
+.Homecon{
+    margin-left: 30px;
+    height: 100vh;
+    overflow: scroll;
+    width: 90vw;
+}
+.Homecon::-webkit-scrollbar {
+    display: none;
+  }

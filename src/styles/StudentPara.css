@@ -1,0 +1,80 @@
+.studentparacon{
+    
+    width: 400px;
+    height: 200px;
+    border-radius: 30px;
+    margin-top: 30px;
+    background-color: blue;
+}
+.question
+{
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+}
+.realques{
+    width: 60%;
+    color: white;
+    font-weight: 400;
+}
+.result{
+    width: max-content;
+    height: max-content;
+    background-color: greenyellow;
+    border-radius: 3px;
+    margin-left: 20px;
+    padding-left: 3px;
+    padding-right: 3px;
+    font-size: 14px;
+}
+.ques{
+    width: max-content;
+    height: max-content;
+    background-color: greenyellow;
+    border-radius: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+}
+.sum{
+    margin-left: 20px;
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.paramers{
+    font-weight: 600;
+    color: white;
+
+}
+.studentsparas{
+    height: 80vh;
+    overflow: scroll;
+}
+.studentsparas::-webkit-scrollbar{
+    display: none;
+}
+.solvebtn{
+    background-color: yellow;
+    border: none; 
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left:8px;
+    padding-right: 8px;
+    border-radius: 10px; 
+}
+.Addsolvebtn{
+    background-color: yellowgreen;
+    border: none;     
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left:8px;
+    padding-right: 8px;
+    border-radius: 10px;
+
+}

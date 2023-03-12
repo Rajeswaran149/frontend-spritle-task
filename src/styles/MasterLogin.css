@@ -1,0 +1,56 @@
+.MasterLoginCon{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    width: 100vw;
+}
+.description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.loginbtn{
+    width: 320px;
+    margin-top: 20px;
+    height: 40px;
+    background-color: #17191A;
+    border: none;
+    font-weight:bold;
+    color: white;
+    border-radius: 4px;  
+    
+}
+
+.credentialinput{
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 20px;
+    background-color: #F1F3F4;
+    border: none;
+    border-radius: 3px;
+}
+.registerquo{
+    font-size: 13px;
+}
+.hello{
+    font-size: 25px;
+    font-weight: bold;
+}
+.hellodec{
+    font-size: 12px;
+    font-weight: 500;
+    margin-top: -20px;
+}
+.registerflow{
+    font-weight: bold;
+    color: black;
+}
+.registerquo{
+    font-weight: 600;
+    color: #8b8d8e;
+    margin-top: 10%;
+}

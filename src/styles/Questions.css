@@ -1,0 +1,41 @@
+.Question{
+    width: 500px;
+    height: max-content;
+    background-color: #E6F4FF;
+    border-radius: 30px;
+    margin-top: 30px;
+    
+}
+.queryprof{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.send{
+    width: max-content;
+    margin-bottom: 30px;
+}
+.querymastename{
+    font-size: 12px;
+}
+.queinner{
+    margin-left: 30px;
+}
+.mastermsg{
+    font-size: 13px;
+}
+.input{
+    width: 250px;
+    margin-bottom: 20px; 
+    height: 30px;
+    padding-left: 14px; 
+    border:none;
+    border-radius: 5px;
+}
+
+.inputs{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
