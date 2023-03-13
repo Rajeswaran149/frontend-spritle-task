@@ -1,3 +1,23 @@
+https://spritle-task.netlify.app/
+
+
+![homepage](https://user-images.githubusercontent.com/98256252/224630360-7eb7c7f3-a54a-476c-bcab-8f48dc2f4619.png)
+
+![master signup](https://user-images.githubusercontent.com/98256252/224630486-53c31ef1-ad13-4c63-9076-c1cc7b3f3954.png)
+
+![master login](https://user-images.githubusercontent.com/98256252/224630580-1b56413e-2357-41ad-8e19-b6aea4261b79.png)
+
+![Screenshot (249)](https://user-images.githubusercontent.com/98256252/224630638-cfbcde6e-21f1-4696-8aa8-dc3bbc22379e.png)
+![after login](https://user-images.githubusercontent.com/98256252/224630677-b4431d67-29d8-4a19-96ce-3e01bcbba9a9.png)
+
+
+![student signup](https://user-images.githubusercontent.com/98256252/224630790-f8ad5716-132c-4cd3-85ae-a04f0da9af03.png)
+
+![student login](https://user-images.githubusercontent.com/98256252/224630835-42fce6ff-b3cb-4851-9ceb-a5650526bc93.png)
+![Screenshot (253)](https://user-images.githubusercontent.com/98256252/224630908-0cee944e-c8be-449f-b8bd-15938a598843.png)
+![after login to view](https://user-images.githubusercontent.com/98256252/224630969-a6994984-4042-40e1-b10f-d7df2ef0b53b.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
